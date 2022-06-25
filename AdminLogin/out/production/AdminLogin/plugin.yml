@@ -1,0 +1,6 @@
+name: AdminLogin
+version: 1.0
+author: EinKaktus
+main: de.kaktus.main.Main
+commands:
+  login:
